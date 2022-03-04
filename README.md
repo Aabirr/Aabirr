@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aabirr
 - 👀 I’m interested in Computer and programming. 
-- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... email: aabirkashif@gmail.com
 
